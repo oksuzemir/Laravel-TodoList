@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel Basic To Do List.
+
+## Usage
+cd to project and use command "php artisan serve" then open a new terminal and use "npm run watch" && "npm run dev"
 
 
